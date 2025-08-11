@@ -18,6 +18,8 @@ El Disco De Tu Corazon . . ?
 
 > Normalmente utilizo mi pony Luzuvlogs. Estoy trabajando en un Karmaland V Quackity! Mis enlaces también están aún en construcción, y mi página principal (en inglés ! [@ripvanwinks](https://github.com/ripvanwinks)) contiene toda la información que necesitas saber.
 
+> porfa, háblame, necesito mejorar mi español.. 🥲
+
 > Otros fandoms; RDR, RDR2, Homestuck, y más...
 
 <p align="center">
