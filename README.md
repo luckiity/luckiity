@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-El Disco De Tu Corazon . . ?
+Hola, ¿qué tal?, ¿cómo te va?
 </p>
 
 <p align="center">
