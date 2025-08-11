@@ -26,6 +26,8 @@ Hola, ¿qué tal?, ¿cómo te va?
 <img width="200" height="400" src="https://files.catbox.moe/u5wbl1.png"
   </p>
 
+![](https://komarev.com/ghpvc/?username=luckiity&color=3b4287)
+
 <p align="center">
  todos los créditos artísticos pertenecen a bliski.
 </p>
