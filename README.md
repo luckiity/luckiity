@@ -14,9 +14,9 @@ Hola, ¿qué tal?, ¿cómo te va?
  <img width="500" height="600" src="https://files.catbox.moe/a9665m.png">
 </p>
 
-> holi, soy "John", "Quackity", "Quacks" o cualquier otro apodo que quieras ponerme ! si suelo estar en el servidor español (Pony Town), tened en cuenta que mi español es mediocre y que todavía estoy aprendiendo activamente.
+> holi, soy "John", "Quackity", "Quacks" o cualquier otro apodo k quieras ponerme ! si suelo estar en el servidor español (Pony Town), tened en cuenta que mi español es mediocre y k todavía estoy aprendiendo activamente.
 
-> Normalmente utilizo mi pony Luzuvlogs. Estoy trabajando en un Karmaland V Quackity! Mis enlaces también están aún en construcción, y mi página principal (en inglés ! [@ripvanwinkles](https://github.com/ripvanwinkles)) contiene toda la información que necesitas saber.
+> Normalmente utilizo mi pony Luzuvlogs. Estoy trabajando en un Karmaland V Quackity! Mis enlaces también están aún en construcción, y mi página principal (en inglés ! [@ripvanwinkles](https://github.com/ripvanwinkles)) contiene toda la información k necesitas saber.
 
 > porfa, háblame, necesito mejorar mi español.. 🥲
 
