@@ -26,6 +26,8 @@ Hola, ¿qué tal?, ¿cómo te va?
 <img width="200" height="400" src="https://files.catbox.moe/u5wbl1.png"
   </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l7b624tr7xjxuwcv7obtlogqra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=123e8d&interchange=false&bar_color_cover=true&bar_color=5345b3)](https://github.com/kittinan/spotify-github-profile)
+
 ![](https://komarev.com/ghpvc/?username=luckiity&color=3b4287)
 
 <p align="center">
